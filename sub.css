@@ -238,7 +238,6 @@ header .gnb-menu .depth01 li a:hover::after{
 	width: 100%;
 	transition: .5s;
 }
-
 header .depth01 {
 	transition: 1s .3s;
 	opacity: 0;
